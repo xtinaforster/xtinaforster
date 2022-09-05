@@ -29,5 +29,5 @@ My name is Christina and I aspire to be a full-stack developer. I enjoy working 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<xtinaforster>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<xtinaforster>&theme=radical)](https://github.com/xtinaforster/github-readme-stats)
 
