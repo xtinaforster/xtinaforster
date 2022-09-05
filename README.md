@@ -2,7 +2,14 @@
 
 My name is Christina and I aspire to be a full-stack developer. I enjoy working with JavaScript technologies and Python/Ruby. Right now I am motivated to learn everything there is about Web Development. I'm also passionate about diving into new technologies in my free time and also when not staring at a screen, love to be in the mountains of Colorado. 
 
-🔧 Technologies & Tools
+
+---
+
+🧰 Toolbox
+
+
+---
+
 <table>
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /></code>
