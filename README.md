@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**xtinaforster/xtinaforster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Christina and I aspire to be a full-stack developer. I enjoy working with JavaScript technologies and Python/Ruby. Right now I am motivated to learn everything there is about Web Development. I'm also passionate about diving into new technologies in my free time and also when not staring at a screen love to be in the mountains of colorado. 
+🔧 Technologies & Tools
+HTML
+HTML5	CSS3
+CSS3	JavaScript
+JavaScript	TypeScript
+TypeScript	React
+Node.js
+Node.js	Express
+Express	MongoDB	
+Git
+Git	Npm
+Npm	Jest
+Jest
