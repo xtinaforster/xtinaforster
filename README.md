@@ -24,3 +24,10 @@ My name is Christina and I aspire to be a full-stack developer. I enjoy working 
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" /></code>
 </div>
 </table>
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<xtinaforster>theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
